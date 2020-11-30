@@ -1,16 +1,26 @@
-### Hi there 👋
+# All you need to know about me
 
-<!--
-**kenliten/kenliten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bio & Dreams
 
-Here are some ideas to get you started:
+My name is Otoniel Reyes, from the Dominican Republic, bornt 27 novembers ago.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like to talk about me like this: I'm just a normal-skilled guy who love and enjoy to improve myself, I'm trying to give the whole world a huge reasons to remember throw the next 5000 years.
+
+I'm a believer, nothing like a normal "religious guy" but yes, I believe God is the universe's author.
+
+My bigger dream is to change the world... make big things that change in some few ways the way life is being consumed by ourselves.
+
+## Something missing?
+
+- 🔭 I’m currently working on freelancing (An awful work in the middle of a pandemic)
+- 🌱 I’m currently learning C# and following working hard on my #100DaysOfCode challenge
+- 👯 I’m looking to collaborate on any project I can, translating, code documentation, code itself and any other thing I can collaborate with
+- 💬 Ask me about my projects and how can I help you with yours
+- 📫 How to reach me:
+  - *Phone/WhatsApp/Telegram*: [+1 (849) 402-0338](tel:+18494020338)
+  - *Website*: [otonielreyes.com](https://otonielreyes.com/contact)
+  - *Email*: [otonielreyesgalay@gmail.com](mailto:otonielreyesgalay@gmail.com)
+  - *Instagram*: [reyesgalay](https://instagram.com/reyesgalay)
+  - *Facebook*: [reyesgalay](https://facebook.com/reyesgalay)
+  - *Twitter*: [oreyesgalay](https://twitter.com/oreyesgalay)
+  - *LinkedIn*: [oreyesgalay](https://www.linkedin.com/in/oreyesgalay)
