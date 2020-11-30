@@ -12,10 +12,40 @@ My bigger dream is to change the world... make big things that change in some fe
 
 ## Technology Stack
 
-- HTML (9/10)
-- CSS (8/10)
-- Javascript (7/10)
-- 
+### Languages
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- Php
+- Ruby
+
+### Libraries
+
+- JQuery
+<!--
+- D3
+- Lodash
+-->
+- Bootstrap
+<!--
+- Vuetify
+-->
+
+### Frameworks
+
+- LESS
+- Vue (v2 and updating to v3)
+- AngularJS
+- Electron
+- Express
+- Jasmine
+- PHPUnit
+
+### Other Tools
+
+- Git
 
 ***Note***: I have other skills in development, just mention what I think I'm better in.
 -----------
