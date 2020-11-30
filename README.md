@@ -10,6 +10,16 @@ I'm a believer, nothing like a normal "religious guy" but yes, I believe God is 
 
 My bigger dream is to change the world... make big things that change in some few ways the way life is being consumed by ourselves.
 
+## Technology Stack
+
+- HTML (9/10)
+- CSS (8/10)
+- Javascript (7/10)
+- 
+
+***Note***: I have other skills in development, just mention what I think I'm better in.
+-----------
+
 ## Something missing?
 
 - 🔭 I’m currently working on freelancing (An awful work in the middle of a pandemic)
