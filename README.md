@@ -52,7 +52,7 @@ My bigger dream is to change the world... make big things that change in some fe
 
 ## Something missing?
 
-- 🔭 I’m currently working on freelancing (An awful work in the middle of a pandemic)
+- 🔭 I’m currently working on freelancing
 - 🌱 I’m currently learning C# and working hard on my #100DaysOfCode challenge
 - 👯 I’m looking to collaborate on any project I can, translating, code documentation, code itself and any other thing I can collaborate with
 - 💬 Ask me about my projects and how can I help you with yours
