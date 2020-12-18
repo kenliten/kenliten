@@ -4,7 +4,7 @@
 
 My name is Otoniel Reyes, from the Dominican Republic, bornt 27 novembers ago.
 
-I like to talk about me like this: I'm just a normal-skilled guy who love and enjoy to improve myself, I'm trying to give the whole world a huge reasons to remember throw the next 5000 years.
+I like to talk about me like this: I'm just a normal-skilled guy who love and enjoy improving myself, I'm trying to give the whole world huge reasons to remember to throw the next 5000 years.
 
 I'm a believer, nothing like a normal "religious guy" but yes, I believe God is the universe's author.
 
