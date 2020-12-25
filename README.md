@@ -18,30 +18,20 @@ My bigger dream is to change the world... make big things that change in some fe
 - CSS
 - JavaScript
 - TypeScript
-- Php
 - Ruby
 
 ### Libraries
 
 - JQuery
-<!--
-- D3
-- Lodash
--->
 - Bootstrap
-<!--
-- Vuetify
--->
 
 ### Frameworks
 
 - LESS
-- Vue (v2 and updating to v3)
 - AngularJS
 - Electron
 - Express
 - Jasmine
-- PHPUnit
 
 ### Other Tools
 
@@ -53,7 +43,7 @@ My bigger dream is to change the world... make big things that change in some fe
 ## Something missing?
 
 - 🔭 I’m currently working on freelancing
-- 🌱 I’m currently learning C# and working hard on my #100DaysOfCode challenge
+- 🌱 I’m currently working hard on my #100DaysOfCode challenge and building a portfolio
 - 👯 I’m looking to collaborate on any project I can, translating, code documentation, code itself and any other thing I can collaborate with
 - 💬 Ask me about my projects and how can I help you with yours
 - 📫 How to reach me:
