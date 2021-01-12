@@ -1,14 +1,6 @@
-# All you need to know about me
+# About Me
 
-## Bio & Dreams
-
-My name is Otoniel Reyes, from the Dominican Republic, bornt 27 novembers ago.
-
-I like to talk about me like this: I'm just a normal-skilled guy who love and enjoy improving myself, I'm trying to give the whole world huge reasons to remember to throw the next 5000 years.
-
-I'm a believer, nothing like a normal "religious guy" but yes, I believe God is the almighty author of the universe.
-
-My bigger dream is to change the world... make big things that change in some few ways the way life is being consumed by ourselves.
+Excited full stack web developer, who loves to develop software, participate in open source projects, and feeling part of the community. Always open to learning and improving himself.
 
 ## Technology Stack
 
@@ -16,38 +8,32 @@ My bigger dream is to change the world... make big things that change in some fe
 
 - HTML
 - CSS
+- LESS
 - JavaScript
 - TypeScript
-- Ruby
 
 ### Libraries
 
 - JQuery
-- Bootstrap
+- RxJS
 
 ### Frameworks
 
-- LESS
-- AngularJS
+- Angular
 - Electron
 - Express
 - Jasmine
+- Mocha
 
 ### Other Tools
 
 - Git
+- Webpack
+- JSDoc
 
-***Note***: I have other skills in development, just mention what I think I'm better in.
------------
+## More Info
 
-## Something missing?
-
-- 🔭 I’m currently working on freelancing
-- 🌱 I’m currently working hard on my #100DaysOfCode challenge and building a portfolio
-- 👯 I’m looking to collaborate on any project I can, translating, code documentation, code itself and any other thing I can collaborate with
-- 💬 Ask me about my projects and how can I help you with yours
-- 📫 How to reach me:
-  - *Phone/WhatsApp/Telegram*: [+1 (849) 402-0338](tel:+18494020338)
+- 📫 Let's keep in touch:
   - *Website*: [otonielreyes.com](https://otonielreyes.com/contact)
   - *Email*: [otonielreyesgalay@gmail.com](mailto:otonielreyesgalay@gmail.com)
   - *Instagram*: [reyesgalay](https://instagram.com/reyesgalay)
