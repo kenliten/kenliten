@@ -33,10 +33,9 @@ Excited full stack web developer, who loves to develop software, participate in 
 
 ## More Info
 
-- 📫 Let's keep in touch:
-  - *Website*: [otonielreyes.com](https://otonielreyes.com/contact)
-  - *Email*: [otonielreyesgalay@gmail.com](mailto:otonielreyesgalay@gmail.com)
-  - *Instagram*: [reyesgalay](https://instagram.com/reyesgalay)
-  - *Facebook*: [reyesgalay](https://facebook.com/reyesgalay)
-  - *Twitter*: [oreyesgalay](https://twitter.com/oreyesgalay)
-  - *LinkedIn*: [oreyesgalay](https://www.linkedin.com/in/oreyesgalay)
+- *Website*: [otonielreyes.com](https://otonielreyes.com/contact)
+- *Email*: [otonielreyesgalay@gmail.com](mailto:otonielreyesgalay@gmail.com)
+- *Instagram*: [reyesgalay](https://instagram.com/reyesgalay)
+- *Facebook*: [reyesgalay](https://facebook.com/reyesgalay)
+- *Twitter*: [oreyesgalay](https://twitter.com/oreyesgalay)
+- *LinkedIn*: [oreyesgalay](https://www.linkedin.com/in/oreyesgalay)
