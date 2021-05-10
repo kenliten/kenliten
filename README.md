@@ -1,41 +1,16 @@
-# About Me
+# kenliten
+Excited software developer, dedicated to build usefull opensource software and tools.
 
-Excited full stack web developer, who loves to develop software, participate in open source projects, and feeling part of the community. Always open to learning and improving himself.
+## Stack
 
-## Technology Stack
-
-### Languages
-
-- HTML
-- CSS
-- LESS
-- JavaScript
+- C
+- Ruby
+- NodeJS
 - TypeScript
 
-### Libraries
+## Social
 
-- JQuery
-- RxJS
-
-### Frameworks
-
-- Angular
-- Electron
-- Express
-- Jasmine
-- Mocha
-
-### Other Tools
-
-- Git
-- Webpack
-- JSDoc
-
-## More Info
-
-- *Website*: [otonielreyes.com](https://otonielreyes.com/contact)
-- *Email*: [otonielreyesgalay@gmail.com](mailto:otonielreyesgalay@gmail.com)
-- *Instagram*: [reyesgalay](https://instagram.com/reyesgalay)
-- *Facebook*: [reyesgalay](https://facebook.com/reyesgalay)
-- *Twitter*: [oreyesgalay](https://twitter.com/oreyesgalay)
-- *LinkedIn*: [oreyesgalay](https://www.linkedin.com/in/oreyesgalay)
+- *Website*: [kenliten.website](https://kenliten.website)
+- *Email*: [kenliten@otonielreyes.com](mailto:kenliten@otonielreyes.com)
+- *Instagram*: [kenliten.dev](https://instagram.com/reyesgalay)
+- *Twitter*: [kenliten](https://twitter.com/oreyesgalay)
