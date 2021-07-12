@@ -1,16 +1,11 @@
-# kenliten
+# [@kenliten.dev](https://instagram.com/kenliten.dev)
 Excited software developer, dedicated to build usefull opensource software and tools.
-
-## Stack
 
 - C
 - Ruby
 - NodeJS
 - TypeScript
 
-## Social
-
-- Website: [kenliten.website](https://kenliten.website)
-- Email: [kenliten@otonielreyes.com](mailto:kenliten@otonielreyes.com)
-- Instagram: [kenliten.dev](https://instagram.com/kenliten.dev)
-- Twitter: [kenliten](https://twitter.com/kenliten)
+- [kenliten.website](https://kenliten.website)
+- [kenliten@otonielreyes.com](mailto:kenliten@otonielreyes.com)
+- [@kenliten](https://twitter.com/kenliten)
