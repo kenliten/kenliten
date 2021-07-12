@@ -6,6 +6,6 @@ Excited software developer, dedicated to build usefull opensource software and t
 - NodeJS
 - TypeScript
 
-- [kenliten.website](https://kenliten.website)
-- [kenliten@otonielreyes.com](mailto:kenliten@otonielreyes.com)
-- [@kenliten](https://twitter.com/kenliten)
+[kenliten.website](https://kenliten.website)
+[kenliten@otonielreyes.com](mailto:kenliten@otonielreyes.com)
+[@kenliten](https://twitter.com/kenliten)
