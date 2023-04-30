@@ -1,5 +1,7 @@
 # Kenliten
-Software developer trying to build opensource tools.
+Coding the new world.
+
+![](https://komarev.com/ghpvc/?username=kenliten&label=Visits&color=blueviolet&style=flat-square)
 
 < [kenliten.website](https://kenliten.website) |
 [kenliten@otonielreyes.com](mailto:kenliten@otonielreyes.com) |
