@@ -3,8 +3,8 @@ Coding the new world.
 
 ![](https://komarev.com/ghpvc/?username=kenliten&label=Visits&color=blueviolet&style=flat-square)
 
-< [kenliten.website](https://kenliten.website) |
-[kenliten@otonielreyes.com](mailto:kenliten@otonielreyes.com) |
+< [otonielreyes.com](https://otonielreyes.com) |
+[orgalay.dev@gmail.com](mailto:orgalay.dev@gmail.com) |
 [@kenliten_dev](https://instagram.com/kenliten_dev) |
 [@kenliten](https://twitter.com/kenliten) >
 
